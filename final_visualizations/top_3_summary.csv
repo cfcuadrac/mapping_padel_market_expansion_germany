@@ -1,0 +1,4 @@
+city,state,population,disposable_income,trend_score_five_years,padel_court_count,tennis_court_count,gym_members,football_players,tennis_players,membership_rate_pct,potential_padel_players,demand_score,courts_per_100k,supply_gap_score,interest_score,sports_culture_score,opportunity_index,rank
+Berlin,Berlin,3902645,26209,68,67,909,523800,809436,161997,24.5,221869,100.0,1.72,59.7,68,53.6,75.4,1
+Stuttgart,Baden-Württemberg,604804,30242,48,8,280,90000,55410,11099,45.68,28440,12.8,1.32,69.1,48,100.0,47.9,2
+Köln,North Rhine-Westphalia,1024621,27754,71,25,439,150000,95986,19226,37.39333333333334,48095,21.7,2.44,42.9,71,81.9,43.1,3
